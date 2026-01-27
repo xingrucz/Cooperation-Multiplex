@@ -35,7 +35,7 @@ All model assumptions, parameters, and derivations are described in detail in th
 
 ### Notebooks
 
-- `Simulation_Function.ipynb`
+- `Simulation.ipynb`
 - `Results_Visualization.ipynb`
 
 ### Setting
@@ -87,3 +87,4 @@ We recommend running the code using **Anaconda**, which automatically manages th
 ## Reproducing the Results
 
 More detailed explanations are provided directly in the code through inline comments and Markdown cells within each Jupyter notebook. By following the notebooks in sequence, users can reproduce all analytical expressions, simulations, and figures reported in the paper.
+
