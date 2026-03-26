@@ -8,7 +8,7 @@ The codebase is organized into several Jupyter (IPython) notebooks, correspondin
 
 ## Symbolic Calculation
 
-The following notebooks perform symbolic derivations and analytical computations appearing in the main text and the SI. The numbering "3X" corresponds to the relevant section numbers in the SI.
+These notebooks execute the symbolic derivations and analytical computations presented in the main text and the SI. Notebooks indexed 3.X map directly to the corresponding subsections of the SI, while Section_4.ipynb and Section_5.ipynb detail the intricate derivations for those respective SI sections, with further logic documented via internal annotations.
 
 ### Notebooks
 
@@ -19,6 +19,10 @@ The following notebooks perform symbolic derivations and analytical computations
 - `Symbolic_Calculation_3.3.ipynb`
 
 - `Symbolic_Calculation_3.4.ipynb`
+  
+- `Section_4.ipynb`
+  
+- `Section_5.ipynb`
 
 ### Settings
 
